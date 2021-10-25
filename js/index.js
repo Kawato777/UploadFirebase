@@ -1,1 +1,1 @@
-console.log(firebase.storage())
+console.log(firebase)
